@@ -39,7 +39,7 @@ Whether you're here to explore dashboards, learn from projects, or connect with 
 
 ## 🌐 Let's Connect:
 
-- 💼 LinkedIn  
-- 📧 Email  
+- 💼 LinkedIn:  linkedin.com/in/sneha-ingale-08168b254
+- 📧 Email: ingalesneha66gmail.com  
 
 Let’s connect, learn, and grow together — one dashboard at a time 📊✨
