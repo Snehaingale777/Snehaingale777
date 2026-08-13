@@ -40,13 +40,21 @@ Other
 📉 Data cleaning & transformation
 📋 Excel
 📊 Business analytics
+
 🚀 Featured Projects
+
 🧑‍💼 HR Attrition Analysis — end-to-end HR analytics solution in Microsoft Fabric, using Dataflow Gen2, a Direct Lake semantic model, and column-level security to protect salary data
+
 📦 Sales Analytics Dashboard — full sales pipeline in Microsoft Fabric, from ingestion through a bronze/silver/gold Lakehouse, a star schema Warehouse model, to a Power BI report with row-level security
+
 🏨 StayInsight — Hospitality Revenue & Performance Analytics using Power BI
+
 🛒 SalesScope — Business Performance Analytics Dashboard using SQL + Power BI
+
 📊 StayVista — Airbnb Performance Dashboard using Power BI
+
 🌐 Let's Connect
+
 💼 LinkedIn: linkedin.com/in/sneha-ingale-08168b254
 📧 Email: ingalesneha66@gmail.com
 
