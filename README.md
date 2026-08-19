@@ -47,6 +47,8 @@ Other
 
 📦 Sales Analytics Dashboard — full sales pipeline in Microsoft Fabric, from ingestion through a bronze/silver/gold Lakehouse, a star schema Warehouse model, to a Power BI report with row-level security
 
+🏦 Loan Portfolio Risk Analysis — Finance/BFSI risk analytics in Microsoft Fabric, built on a 36,976-loan PySpark star schema, with a Power BI dashboard combining both row-level and column-level security in a single project
+
 🏨 StayInsight — Hospitality Revenue & Performance Analytics using Power BI
 
 🛒 SalesScope — Business Performance Analytics Dashboard using SQL + Power BI
